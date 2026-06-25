@@ -71,7 +71,7 @@ df['work_type'] = df.apply(classify_remote, axis=1)
 
 # 9. Extract key skills from description
 SKILLS = [
-    "python", "sql", "excel","power bi", "tableau", "r",
+    "python", "sql", "excel","power bi", "tableau",
     "machine learning", "deep learning", "spark", "hadoop",
     "aws", "azure", "gcp", "docker", "kubernetes",
     "pandas", "numpy", "scikit-learn", "tensorflow", "Pytorch",
