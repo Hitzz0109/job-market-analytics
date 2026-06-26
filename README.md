@@ -1,4 +1,4 @@
-\# 📊 Job Market Analytics Platform
+# 📊 Job Market Analytics Platform
 
 
 
@@ -10,13 +10,7 @@ Built as a 2026 portfolio project to demonstrate the full data lifecycle: from r
 
 
 
-\---
-
-
-
-\## 🎯 Project Overview
-
-
+## 🎯 Project Overview
 
 This project answers a simple question: \*\*what does the current job market actually look like?\*\*
 
@@ -26,13 +20,7 @@ It pulls real, live job postings (UK tech \& data roles via the Adzuna API), cle
 
 
 
-\---
-
-
-
-\## 🏗️ Architecture
-
-
+## 🏗️ Architecture
 
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌───────────────┐
 
@@ -74,13 +62,7 @@ It pulls real, live job postings (UK tech \& data roles via the Adzuna API), cle
 
 
 
-\---
-
-
-
-\## ✨ Features
-
-
+## ✨ Features
 
 \- \*\*Automated data collection\*\* — Python script pulls live job postings across 8 in-demand roles (Data Analyst, Data Scientist, ML Engineer, etc.) via the Adzuna public API
 
@@ -96,13 +78,7 @@ It pulls real, live job postings (UK tech \& data roles via the Adzuna API), cle
 
 
 
-\---
-
-
-
-\## 🛠️ Tech Stack
-
-
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 
@@ -124,13 +100,7 @@ It pulls real, live job postings (UK tech \& data roles via the Adzuna API), cle
 
 
 
-\---
-
-
-
-\## 📁 Project Structure
-
-
+## 📁 Project Structure
 
 job-market-analytics/
 
@@ -192,12 +162,7 @@ job-market-analytics/
 
 
 
-\---
-
-
-
-\## 🚀 Getting Started
-
+## 🚀 Getting Started
 
 
 \### Prerequisites
@@ -214,9 +179,7 @@ job-market-analytics/
 
 
 
-\### Setup
-
-
+### Setup
 
 1\. \*\*Clone the repo\*\*
 
@@ -300,13 +263,7 @@ GEMINI\_API\_KEY=your\_gemini\_key
 
 
 
-\---
-
-
-
-\## 💬 Chatbot Demo
-
-
+## 💬 Chatbot Demo
 
 You: What is the average salary for data scientists?
 
@@ -344,13 +301,7 @@ Engineer roles, including Deliveroo, Spotify, ASOS, and G-Research.
 
 
 
-\---
-
-
-
-\## 📈 Key Insights from the Data
-
-
+## 📈 Key Insights from the Data
 
 \- \*\*London dominates\*\* the UK job market with the highest concentration of postings across all search terms
 
@@ -366,13 +317,7 @@ Engineer roles, including Deliveroo, Spotify, ASOS, and G-Research.
 
 
 
-\---
-
-
-
-\## 🔮 Future Enhancements
-
-
+## 🔮 Future Enhancements
 
 \- \[ ] Deploy the database to \*\*AWS RDS\*\* and host the chatbot on \*\*AWS EC2\*\* for a fully cloud-based version
 
@@ -388,39 +333,21 @@ Engineer roles, including Deliveroo, Spotify, ASOS, and G-Research.
 
 
 
-\---
-
-
-
-\## ⚖️ Ethical Considerations
-
-
+## ⚖️ Ethical Considerations
 
 This project only collects publicly available job posting data through an official, permitted API (Adzuna) — no scraping of restricted or personal data is performed. Company and job data is used strictly for aggregate market analysis, not for any individual profiling.
 
 
 
-\---
-
-
-
-\## 📝 License
-
-
+## 📝 License
 
 This project is open-source and available for learning purposes under the MIT License.
 
 
 
-\---
+## 🙋 Author
 
-
-
-\## 🙋 Author
-
-
-
-Built by \*\*Hitesh Dongare\*\* as a hands-on portfolio project demonstrating end-to-end data engineering, analytics, and applied AI.
+Built by \*\*Hitesh Dongarwar\*\* as a hands-on portfolio project demonstrating end-to-end data engineering, analytics, and applied AI.
 
 
 
