@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+python-dotenv
+jupyter
+matplotlib
+seaborn
+google-genai
